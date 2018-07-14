@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+    {
+      "item": "minecraft:stick",
+      "data": 0
+    },
+	{
+      "item": "minecraft:reeds",
+      "data": 0
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "data": 0
+    }
+	],
+	"result": {
+		"item": "falseswipe:leek",
+		"count": 1
+	}
+}

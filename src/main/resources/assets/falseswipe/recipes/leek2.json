@@ -1,0 +1,22 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "leek",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "sugarcane"
+    },
+	{
+		"type": "forge:ore_dict",
+		"ore": "listAllSeed"
+	}
+  ],
+  "result": {
+    "item": "falseswipe:leek",
+    "count": 1
+  }
+}

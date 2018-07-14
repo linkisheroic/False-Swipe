@@ -1,0 +1,16 @@
+[
+{
+  "modid": "falseswipe",
+  "name": "False Swipe",
+  "description": "A weapon that leaves your enemies alive.",
+  "version": "0.1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["naturaGodhead"],
+  "credits": "Me, Myself, and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
